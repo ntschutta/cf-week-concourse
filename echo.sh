@@ -1,1 +1,2 @@
-  echo "Hello, Coffee and tea!"
+#!/bin/bash
+echo "Hello, Coffee and tea!"
